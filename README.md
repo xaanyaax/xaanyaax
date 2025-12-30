@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blockchain Development, MERN<br>📫 How to reach me aanyasingh282004@gmail.com<br>🎱 I love cats!
+ MERN<br>📫 How to reach me aanyasingh282004@gmail.com<br>🎱 I love cats!
 
 
 ## 🌐 Socials:

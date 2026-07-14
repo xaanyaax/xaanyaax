@@ -1,3 +1,3 @@
-# Hi, I'm aanyaa
+# Aanya Singh
 
-# I teach machines. They still humble me.
+*I teach machines. They still humble me.*
